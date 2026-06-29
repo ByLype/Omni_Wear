@@ -1,2 +1,2 @@
 # Omni_Wear
-Loja de camisetas de Ben 10
+Loja de camisetas do Ben 10
